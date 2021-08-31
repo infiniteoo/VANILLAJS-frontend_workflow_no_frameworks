@@ -198,7 +198,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 
 var Header = function Header() {
-  var template = "\n        <header>\n            <h1>M Parcel App</h1>\n            <p>This is a boilerplate app to show how to use Parcel</p>        \n        </header>    \n    ";
+  var template = "\n        <header>\n            <h1>My Parcel App</h1>\n            <p>This is a boilerplate app to show how to use Parcel</p>        \n        </header>    \n    ";
   return template;
 };
 
